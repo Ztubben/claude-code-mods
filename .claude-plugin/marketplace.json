@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-mods",
+  "owner": { "name": "Ztubben" },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./plugins/usage-meter",
+      "description": "Band above the prompt: context-window progress bar plus 5h and weekly usage-limit percentages with reset countdowns"
+    }
+  ]
+}
