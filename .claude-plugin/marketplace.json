@@ -6,6 +6,11 @@
       "name": "usage-meter",
       "source": "./plugins/usage-meter",
       "description": "Band above the prompt: context-window progress bar plus 5h and weekly usage-limit percentages with reset countdowns"
+    },
+    {
+      "name": "subagent-monitor",
+      "source": "./plugins/subagent-monitor",
+      "description": "Pane of the session's subagents: what each is doing, how long it has run, and how much context it holds"
     }
   ]
 }

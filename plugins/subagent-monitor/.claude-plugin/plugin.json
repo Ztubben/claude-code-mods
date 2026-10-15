@@ -1,0 +1,6 @@
+{
+  "name": "subagent-monitor",
+  "version": "0.1.0",
+  "description": "A live pane of the session's subagents: what each is doing, how long it has run, and how much context it holds",
+  "types": "./types/index.d.ts"
+}
